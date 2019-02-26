@@ -5,8 +5,6 @@ import (
 	"strings"
 )
 
-//asdfa
-
 func main() {
 	var num int
 	var input string
